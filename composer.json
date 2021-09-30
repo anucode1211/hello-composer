@@ -1,0 +1,24 @@
+{
+    "name": "anucode1211/hello-composer",
+    "description": "My first packagist package",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "illuminate/support": "8.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anucode1211\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anucode1211",
+            "email": "anusiyaoff2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
