@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '494551798afc3adf3212b4e6817121826f1adf10',
         'name' => 'anucode1211/hello-composer',
         'dev' => true,
     ),
     'versions' => array(
         'anucode1211/hello-composer' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '494551798afc3adf3212b4e6817121826f1adf10',
             'dev_requirement' => false,
         ),
         'doctrine/inflector' => array(

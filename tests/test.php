@@ -6,3 +6,4 @@ use anucode1211\HelloComposer\Hello;
 $instance = new Hello();
 
 echo $instance->say("Hello World");
+
