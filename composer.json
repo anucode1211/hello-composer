@@ -1,12 +1,9 @@
 {
     "name": "anucode1211/hello-composer",
-    "description": "My first packagist package",
+    "description": "\"My package\"",
     "type": "library",
     "require": {
         "php": "^7.3"
-    },
-    "require-dev": {
-        "illuminate/support": "8.x-dev"
     },
     "license": "MIT",
     "autoload": {
@@ -17,7 +14,7 @@
     "authors": [
         {
             "name": "anucode1211",
-            "email": "anusiyaoff2@gmail.com"
+            "email": "anuoffice2@gmail.com"
         }
     ],
     "minimum-stability": "dev"
